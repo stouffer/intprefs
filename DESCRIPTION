@@ -1,0 +1,12 @@
+Package: intprefs
+Title: Calculate interaction preferences based on neutrality of interactions
+Version: 0.1
+Authors@R: "Daniel B. Stouffer <daniel.stouffer@canterbury.ac.nz> [aut, cre]"
+Description: Intprefs provides a set of functions needed to estimate species'
+    interaction preferences when considering that a large proportion of the
+    frequency of observed interactions can be explained by species' abundances
+    alone.
+Depends:
+    R (>= 3.1.1)
+License: MIT + file LICENSE
+LazyData: true
